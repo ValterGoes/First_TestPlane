@@ -95,7 +95,7 @@ Usuário direcionado para página 'Home’ com produtos exibidos.
 **Status:** ✅ **Pass**
 
 **Observações:**  
-![Screenshot](attachment:b3df8b7a-837d-428c-9d25-384952884858:Screenshot_2025-05-27_at_3.13.50_PM.png)
+![Screenshot](img/Screenshot%201%202025-05-27%20at%203.13.50%20PM.png)
 
 ---
 
@@ -133,7 +133,7 @@ Mensagem de erro exibida:
 **Status:** ✅ **Pass**
 
 **Observações:**  
-![Screenshot](attachment:e78e106d-0056-4503-a7d2-099ff7f68250:Screenshot_2025-05-27_at_3.28.03_PM.png)
+![Screenshot](img/Screenshot%202%202025-05-27%20at%203.28.03%20PM.png)
 
 ---
 
@@ -171,7 +171,7 @@ Mesma mensagem de erro informando que ambos os campos estão incorretos:
 **Status:** ❌ **Fail**
 
 **Observações:**  
-![Screenshot](attachment:e14799e8-c649-498b-9bd0-8d317f337d4b:Screenshot_2025-05-27_at_3.34.37_PM.png)
+![Screenshot](img/Screenshot%203%202025-05-27%20at%203.34.37%20PM.png)
 
 ---
 
@@ -209,7 +209,7 @@ Mesma mensagem de erro exibida informando que ambos os campos estão incorretos:
 **Status:** ❌ **Fail**
 
 **Observações:**  
-![Screenshot](attachment:7ba8ec69-809e-4e04-a834-b5432fb94eaa:Screenshot_2025-05-27_at_3.39.02_PM.png)
+![Screenshot](img/Screenshot%204%202025-05-27%20at%203.39.02%20PM.png)
 
 ---
 
@@ -247,7 +247,7 @@ Mensagem de erro exibida:
 **Status:** ❌ **Fail**
 
 **Observações:**  
-![Screenshot](attachment:dcb4d312-726c-425a-9172-082b1fc3fe50:Screenshot_2025-05-27_at_3.43.04_PM.png)
+![Screenshot](img/Screenshot%205%202025-05-27%20at%203.43.04%20PM.png)
 
 ---
 
@@ -285,7 +285,7 @@ Mensagem de erro exibida:
 **Status:** ✅ **Pass**
 
 **Observações:**  
-![Screenshot](attachment:b5f2d935-bd65-4cbb-b3a7-3e091a737565:Screenshot_2025-05-27_at_3.48.33_PM.png)
+![Screenshot](img/Screenshot%206%202025-05-27%20at%203.48.33%20PM.png)
 
 ---
 
@@ -323,7 +323,7 @@ Mensagem de erro exibida:
 **Status:** ✅ **Pass**
 
 **Observações:**  
-![Screenshot](attachment:bc9fdb3c-0b76-4c56-b3c6-bdb158ae6a08:Screenshot_2025-05-27_at_3.53.57_PM.png)
+![Screenshot](img/Screenshot%207%20%202025-05-27%20at%203.53.57%20PM.png)
 
 ---
 
