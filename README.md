@@ -45,7 +45,7 @@ Acessar o site preenchendo o formulário de login com usuário e senha válidos,
 Validar que os campos de usuário e senha aceitam dados corretos, direcionando o usuário à página inicial.
 
 **Pré-condições:**  
-- Usuário está na tela de login.
+- Usuário estar na tela de login.
 
 **Fluxo Principal:**
 
