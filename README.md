@@ -1,5 +1,5 @@
 
-# ✅ Plano de Testes: Fluxo de Login
+# ✅ Plano de Testes Resumido: Fluxo de Login
 
 ## 1. Objetivo
 
