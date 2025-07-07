@@ -46,6 +46,7 @@ Validar que os campos de usuário e senha aceitam dados corretos, direcionando o
 
 **Pré-condições:**  
 - Usuário estar na tela de login.
+- Ter as credênciais corretas criadas.
 
 **Fluxo Principal:**
 
@@ -71,6 +72,7 @@ Inserir usuário e senha nos respectivos campos e clicar em login.
 
 **Pré-condições:**  
 - Estar na página de login.
+- ter as credênciais válidas
 
 **Passos para execução:**
 
@@ -108,6 +110,7 @@ Inserir usuário e senha inválidos nos respectivos campos e clicar em login.
 
 **Pré-condições:**  
 - Estar na página de login.
+- Fornecer dados inválidos.
 
 **Passos para execução:**
 
@@ -146,6 +149,7 @@ Inserir usuário inválido, senha correta e clicar em login.
 
 **Pré-condições:**  
 - Estar na página de login.
+- Fornecer dados de usuário inválido.
 
 **Passos para execução:**
 
@@ -184,6 +188,7 @@ Inserir senha inválida, usuário correto e clicar em login.
 
 **Pré-condições:**  
 - Estar na página de login.
+- Fornecer dados de senha inválida.
 
 **Passos para execução:**
 
@@ -222,6 +227,7 @@ Não inserir dados de usuário e senha e clicar em login.
 
 **Pré-condições:**  
 - Estar na página de login.
+- Não fornecer dados de usuário e senha.
 
 **Passos para execução:**
 
@@ -260,6 +266,7 @@ Inserir dados de usuário válido, não inserir senha e clicar em login.
 
 **Pré-condições:**  
 - Estar na página de login.
+- Ter acesso a usuário válido e senha não.
 
 **Passos para execução:**
 
@@ -298,6 +305,7 @@ Não inserir dados de usuário, inserir senha válida e clicar em login.
 
 **Pré-condições:**  
 - Estar na página de login.
+- Não ter acesso usuário mas ter acesso a senha correta.
 
 **Passos para execução:**
 
