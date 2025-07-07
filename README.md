@@ -32,21 +32,21 @@ Valter Goes
 ## 7. Cronograma
 
 - **Início:** 28/05  
-- **Fim:** 28/05
+- **Fim:** 29/05
 
 ---
 
-# 🎯 Cenário de Teste: Fazer Login com Sucesso
+# 🎯 Cenário de Teste: Testar formulário de login da página saucedemo.com .
 
 **Descrição:**  
-Acessar o site preenchendo o formulário de login com usuário e senha válidos, efetuando o login com sucesso.
+Testar o site preenchendo o formulário de login com usuário e senha, somente usuário, somente senha, não preenchendo nenhum campo e tentando efetuar o login.
 
 **Objetivo:**  
-Validar que os campos de usuário e senha aceitam dados corretos, direcionando o usuário à página inicial.
+Validar se os campos de usuário e senha aceitam dados corretos, incorretos ou faltantes direcionando o usuário à página inicial.
 
 **Pré-condições:**  
 - Usuário estar na tela de login.
-- Ter as credênciais corretas criadas.
+- Ter as credênciais corretas criadas ou não.
 
 **Fluxo Principal:**
 
